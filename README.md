@@ -1,53 +1,100 @@
 # 👋 Olá, eu sou o Olívio Cumbe
 
-Sou **desenvolvedor recém formado**, com mentalidade prática e espírito explorador 🚀  
-Aprendo tecnologia **construindo soluções reais**, identificando problemas e transformando ideias em sistemas funcionais.
-
-Atualmente foco em **desenvolvimento web (frontend + backend)** e na criação de aplicações voltadas para gestão, automação e negócios.
+💻 Full Stack Developer em evolução  
+Construo aplicações web modernas com foco em **estrutura, clareza e problemas reais**.
 
 ---
 
-## 🛠️ O que estou a construir agora
-- 🚚 Uma **plataforma B2B** focada em logística, fornecedores e lojistas
-- 🏪 Sistemas web para **gestão de pequenos negócios** e processos do dia a dia
-- 📚 Projetos práticos para consolidar fundamentos de frontend e backend
+## 🚀 Sobre mim
+
+- Desenvolvedor com base sólida em backend e sistemas
+- Evoluindo para stack moderna do ecossistema JavaScript
+- Gosto de construir soluções completas: frontend + backend + dados
 
 ---
 
-## 🚀 Projetos em destaque
-🔹 **Plataforma B2B (em desenvolvimento)**  
-Sistema web voltado para integração entre fornecedores e lojistas, com foco em processos, escalabilidade e realidade local.  
-> Arquitetura, lógica de negócio e evolução contínua.
+## 🧠 Stack
 
-🔹 **Sistema de Gestão (Full Stack)**  
-Aplicação web para controle e organização de operações básicas.  
-> CRUD, autenticação, regras de negócio e base de dados.
-
-🔹 **Practice Projects**  
-Coleção de desafios e pequenos projetos focados em frontend e prática contínua.  
-> HTML • CSS • JavaScript.
+### 🏗️ Base sólida (formação)
+- JS
+- PHP
+- MySQL
+- APIs REST
+- Arquitetura MVC
+- Lógica de sistemas
 
 ---
 
-## 💻 Stack atual
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP, JavaScript  
-- **Base de dados:** MySQL  
-- **Outros:** Git, GitHub, APIs básicas, lógica de sistemas
-
-*(Stack em evolução constante — aprendizado baseado em prática)*
-
----
-
-## 🎯 Objetivo profissional
-Desenvolver uma base sólida como programador, contribuir em projetos reais  
-e evoluir continuamente como desenvolvedor de software.
+### ⚡ Stack moderna (em evolução)
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Prisma ORM
+- PostgreSQL
 
 ---
 
-## 📫 Contato
-- 📍 Maputo, Moçambique  
-- 📧 Email: oliviorui@gmail.com
+## 🧪 O que estou a construir
+
+- 🚚 Plataforma B2B para fornecedores e lojistas
+- 🏪 Sistemas web para gestão e automação de negócios
+- 📚 Projetos práticos para evolução contínua
 
 ---
-⭐ Este perfil documenta minha evolução como desenvolvedor e a construção de soluções práticas.
+
+## 🚀 Projetos em Destaque
+
+### 🔹 Plataforma B2B (em desenvolvimento)
+Sistema moderno com foco em:
+- Gestão de produtos
+- Pedidos e fluxo de logística
+- Arquitetura escalável
+
+---
+
+### 🔹 Sistema de Gestão (Full Stack)
+- Autenticação de utilizadores
+- CRUD completo
+- Regras de negócio
+- Integração com base de dados
+
+---
+
+### 🔹 Sistema de Agendamento (MVC)
+- Estrutura organizada
+- Separação de responsabilidades
+- Simulação de fluxo real
+
+---
+
+### 🔹 Gestão de Mercearia
+- Sistema para controlo de operações
+- Organização de dados e processos
+
+---
+
+### 🔹 Practice Projects
+- Desafios de frontend
+- Interfaces modernas
+- Evolução contínua
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como engenheiro de software, focado em:
+- Sistemas reais
+- Arquitetura bem definida
+- Código limpo e escalável
+
+---
+
+## 📫 Contacto
+
+📍 Maputo, Moçambique  
+📧 oliviorui@gmail.com  
+
+---
+
+⭐ Este GitHub documenta minha evolução como desenvolvedor e construção de soluções práticas.
