@@ -5,14 +5,6 @@ Base em PHP/MySQL, evoluindo ativamente para Next.js, React, TypeScript e Prisma
 
 ---
 
-## 🚀 Sobre mim
-
-- Desenvolvedor com base sólida em backend e sistemas
-- Evoluindo para stack moderna do ecossistema JavaScript
-- Gosto de construir soluções completas: frontend + backend + dados
-
----
-
 ## 🧠 Stack
 
 **Formação:** PHP · MySQL · JS · APIs REST · MVC  
