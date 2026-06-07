@@ -2,6 +2,7 @@
 
 💻 Desenvolvedor Full Stack focado em construir aplicações web modernas, escaláveis e orientadas a problemas reais.
 Base em PHP/MySQL, evoluindo ativamente para Next.js, React, TypeScript e Prisma.
+
 ---
 
 ## 🚀 Sobre mim
