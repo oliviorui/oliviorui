@@ -14,7 +14,7 @@ Base em PHP/MySQL, evoluindo ativamente para Next.js, React, TypeScript e Supaba
 
 ## 🚀 Projetos em destaque
 
-### 🧾 [taliqo](https:taliqo.vercel.app) *(privado)*
+### 🧾 TALIQO *(privado)*
 Plataforma SaaS multi-tenant para criação e gestão de cotações/propostas comerciais.  
 Inclui integração com WhatsApp, CRM, billing por planos, IA aplicada a cotações, onboarding, sistema de convites e painel administrativo.  
 `Next.js` · `React 19` · `Supabase` · `TypeScript` · `Tailwind v4` · `Radix UI`
